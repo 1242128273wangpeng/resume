@@ -42,7 +42,6 @@
 * 大二开始跟随Android培训老师学习，曾在创业公司中跟随项目，做过Android端UI界面。
 * 在校期间担任学院软件创新中心小组组长。
 
-## 作品
 
 ## License
 MIT License
