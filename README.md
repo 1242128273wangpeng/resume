@@ -33,7 +33,7 @@
 ## 技术能力
 
 * 掌握JavaWeb的基础知识，会使用HTML,CSS。学习过Struts2并能简单使用。
-* 熟悉Android基础知识，会使用Okhttp、Picasso、Retrofit等网络开源项目，掌握Json数据解析.
+* 掌握Android基础知识，会使用Okhttp、Picasso、Retrofit等网络开源项目，掌握Json数据解析.
 * 学习过RxJava响应式编程框架,掌握简单App应用的开发，能完成独立一个简单App应用。
 * 对MVP,MVVM模式有简单的了解。
 * 了解Git版本的简单操作。
