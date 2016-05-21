@@ -17,9 +17,9 @@
 
 **Email**： wangpeng429716@gmail.com 
 
-**github**：https://github.com/1242128273wangpeng
+**GitHub**：https://github.com/1242128273wangpeng
 
-**博客**：http://blog.csdn.net/youyoulanyouyou
+**CSDN**：http://blog.csdn.net/youyoulanyouyou
 
 **手机**：15270927824
 
