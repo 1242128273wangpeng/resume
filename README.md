@@ -36,7 +36,7 @@
 * 掌握Android基础知识，会使用Okhttp、Picasso、Retrofit等网络开源项目，掌握Json数据解析.
 * 学习过RxJava响应式编程框架,掌握简单App应用的开发，能完成独立一个简单App应用。
 * 对MVP,MVVM模式有简单的了解。
-* 了解Git版本的简单操作。
+* 能简单的运用Git版本控制工具。
 
 ## 实践经历
 * 大一学校开Web课程，期间学习掌握前端和JavaWeb基本知识,学习过Struts2。在校园做过电脑销售
