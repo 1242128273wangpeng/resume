@@ -23,7 +23,7 @@
 
 **CSDN**：http://blog.csdn.net/youyoulanyouyou
 
-**手机**：15270927824
+**联系方式**：15270927824
 
 **英语水平**：四级
 
