@@ -32,26 +32,26 @@
 性格稳重，喜欢旅游、运动，热爱篮球，还喜欢听歌，看些烧脑电影。 在校期间学习认真，大学各门课程基本良好，两次获得学校三等奖学金，热爱Java、Android等专业课程。具有良好的心态、良好的自学能力、具有良好的沟通能力及团队合作能力。参加学校及社会实践活动，体会各种工作的不同运作程序及处事方式，锻炼吃苦耐劳、坚忍不拔、勇于挑战创新的精神。
 
 ## 获奖荣誉
-*学校软件学院创新中心优秀成员
-*学校三等奖学金
-*江西省计算机作品大赛 优胜奖
+* 学校软件学院创新中心优秀成员
+* 学校三等奖学金
+* 江西省计算机作品大赛 优胜奖
 
 ## 专业技能
 
-*掌握JavaWeb的基础知识，掌握HTML、CSS、JavaScript。
-*能搭建Struts2、Spring、Hibernate环境，并能结合MVC整合简单项目。
-*掌握MySQL、SQLServer数据库和SQL语句。  
-*掌握Android基础知识、四大组件、Android常用控件，有自定义控件的能力，Android多线程机制，Hnadler机制、异步任务，接口回调，不同组件的通信，了解Binder、AIDL能利用Binder，AIDL实现IPC。
-*掌握ListView的优化、 动画的设计和传感器，多媒体的使用。
-*掌握PullToRefresh完成页面的上拉加载下拉刷新功能。
-*掌握SQlite数据库对数据进行持久化存储。
-*掌握BitmapFactory图片压缩处理。
-*掌握Okhttp、Picasso、Retrofit、EventBus等网络开源项目。
-*掌握Android客户端和服务器端XML和JSON数据的交互和Android的数据存储。
-*学习过RxJava、RxAndroid响应式编程框架。
-*学习过XMPP，利用Amask简单实现客户端间的通信。
-*了解MVP、MVVM模式。
-*能简单的运用Git版本控制工具。
+* 掌握JavaWeb的基础知识，掌握HTML、CSS、JavaScript。
+* 能搭建Struts2、Spring、Hibernate环境，并能结合MVC整合简单项目。
+* 掌握MySQL、SQLServer数据库和SQL语句。  
+* 掌握Android基础知识、四大组件、Android常用控件，有自定义控件的能力，Android多线程机制，Hnadler机制、异步任务，接口回调，不同组件的通信，了解Binder、AIDL能利用Binder，AIDL实现IPC。
+* 掌握ListView的优化、 动画的设计和传感器，多媒体的使用。
+* 掌握PullToRefresh完成页面的上拉加载下拉刷新功能。
+* 掌握SQlite数据库对数据进行持久化存储。
+* 掌握BitmapFactory图片压缩处理。
+* 掌握Okhttp、Picasso、Retrofit、EventBus等网络开源项目。
+* 掌握Android客户端和服务器端XML和JSON数据的交互和Android的数据存储。
+* 学习过RxJava、RxAndroid响应式编程框架。
+* 学习过XMPP，利用Amask简单实现客户端间的通信。
+* 了解MVP、MVVM模式。
+* 能简单的运用Git版本控制工具。
 
 ## 实践经历
 * 2013.11-2013.12 东方电脑城。    主要负责在校内派发传单和推销电脑，推荐同学到雇主店中购买电脑。 提升了沟通能力、语言表达能力。
